@@ -8,4 +8,4 @@
 ## 📫 How to reach me: Discord: Boredom2
 ## 😄 Pronouns: He/Him
 ## ⚡ Fun fact: I know 9 Programming languages
-## FYI:THIS IS MY COLLEGE ACCOUNT
+## FYI: THIS IS MY COLLEGE ACCOUNT
