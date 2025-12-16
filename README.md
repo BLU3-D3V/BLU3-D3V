@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 🔭 I’m currently working on Prepping For Hytale Mods
-##🌱 I’m currently learning Nothing ATM
+## 🌱 I’m currently learning Nothing ATM
 ## 👯 I’m looking to collaborate on Most Minecraft mods or mods in general
 ## 🤔 I’m looking for help with Nothing ATM
 ## 💬 Ask me about Learning to Program
