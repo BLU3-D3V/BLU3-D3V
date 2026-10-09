@@ -1,16 +1,20 @@
-# hi, i'm nicholas
+# Nicholas Campos
 
-first year CIS student at SUNY Buffalo State. been coding since i was 9, mostly messing around and breaking stuff until it works.
+Computer Information Systems student at SUNY Buffalo State (Class of 2030). I've been programming since age 9, and I'm focused on software development, game development, and virtual reality.
 
-### what i'm up to
-- getting through intro to algorithms and the rest of freshman year
-- learning more about game dev and VR
-- starting to stream VR games (pavlov, h3vr, pistol whip)
+## Current Focus
+- Exploring game development and VR applications
+- Developing personal projects to strengthen my portfolio
 
-### stuff i use
-python, javascript, git, steamvr
+## Technical Skills
+**Languages:** Python, JavaScript  
+**Tools:** Git, SteamVR
 
-### outside of code
-i row for the school team, so if i'm not answering it's probably 5am practice
+## Beyond Code
+I'm a member of the Buffalo State rowing team, which has taught me discipline, time management, and how to work as part of a team.
 
-![stats](https://github-readme-stats.vercel.app/api?username=BLU3-D3V&show_icons=true)
+## Contact
+- Email: your.email@buffalostate.edu
+- LinkedIn: linkedin.com/in/yourprofile
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BLU3-D3V&show_icons=true&hide_border=true)
