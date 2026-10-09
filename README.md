@@ -1,11 +1,16 @@
-## Hi there 👋
+# hi, i'm nicholas
 
-## 🔭 I’m currently working on Prepping For Hytale Mods
-## 🌱 I’m currently learning Nothing ATM
-## 👯 I’m looking to collaborate on Most Minecraft mods or mods in general
-## 🤔 I’m looking for help with Nothing ATM
-## 💬 Ask me about Learning to Program
-## 📫 How to reach me: Discord: Boredom2
-## 😄 Pronouns: He/Him
-## ⚡ Fun fact: I know 9 Programming languages
-## FYI: THIS IS MY COLLEGE ACCOUNT
+first year CIS student at SUNY Buffalo State. been coding since i was 9, mostly messing around and breaking stuff until it works.
+
+### what i'm up to
+- getting through intro to algorithms and the rest of freshman year
+- learning more about game dev and VR
+- starting to stream VR games (pavlov, h3vr, pistol whip)
+
+### stuff i use
+python, javascript, git, steamvr
+
+### outside of code
+i row for the school team, so if i'm not answering it's probably 5am practice
+
+![stats](https://github-readme-stats.vercel.app/api?username=BLU3-D3V&show_icons=true)
