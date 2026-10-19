@@ -14,7 +14,8 @@ Computer Information Systems student at SUNY Buffalo State (Class of 2030). I've
 I'm a member of the Buffalo State rowing team, which has taught me discipline, time management, and how to work as part of a team.
 
 ## Contact
-- Email: your.email@buffalostate.edu
-- LinkedIn: linkedin.com/in/yourprofile
+- Email: camposn03@buffalostate.edu
+- LinkedIn: www.linkedin.com/in/nick-cis
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BLU3-D3V&show_icons=true&hide_border=true)
