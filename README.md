@@ -18,4 +18,4 @@ I'm a member of the Buffalo State rowing team, which has taught me discipline, t
 - LinkedIn: www.linkedin.com/in/nick-cis
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BLU3-D3V&show_icons=true&hide_border=true)
+
